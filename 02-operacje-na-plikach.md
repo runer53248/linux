@@ -27,3 +27,5 @@ Odkryj co zrobi `mkdir` jeśli podany katalog już istnieje.
 
 Hello Coders School
 Hello
+Coders School
+Coders School
